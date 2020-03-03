@@ -5,7 +5,7 @@ import java.util.Properties;
 
 public class Configuration {
 
-	private static String FILENAME="/home/alvaro1553/eclipse-workspace/epiTrello/src/fr/epita/epitrello/dao/config";
+	private static String FILENAME="/home/alvaro1553/workspace/projects/java/eclipse/epiTrello/src/fr/epita/epitrello/dao/config";
 	private static Properties confProperties = new Properties();
 	private static boolean isInit = false;
 

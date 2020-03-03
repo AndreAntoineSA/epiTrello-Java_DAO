@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/alvaro1553/workspace/locker/4_Java/h2/bin/h2-1.4.199.jar">
+	<classpathentry kind="lib" path="/home/alvaro1553/workspace/projects/java/h2/bin/h2-1.4.199.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
